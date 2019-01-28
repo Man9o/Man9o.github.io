@@ -1,1 +1,1 @@
-# man9o.github.io
+# http://ajou.likelion.org/
